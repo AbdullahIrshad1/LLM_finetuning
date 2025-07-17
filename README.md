@@ -22,7 +22,7 @@ To run this project, first install the required packages and configure your envi
 
 ### Clone the Repository
 ```
-git clone https://github.com/your-username/phi1.5-lora-chatbot
+git clone https://github.com/AbdullahIrshad1/phi1.5-lora-chatbot
 cd phi1.5-lora-chatbot
 ```
 
