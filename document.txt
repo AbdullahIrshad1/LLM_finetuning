@@ -1,0 +1,7 @@
+Abdullah is a Data Science undergraduate currently in his 6th semester at FAST NUCES. He is deeply passionate about artificial intelligence, machine learning, and data-driven problem solving. Abdullah has developed skills in Python, SQL, and is proficient in tools like Tableau and Power BI.
+
+In the field of AI, Abdullah has worked with large language models (LLMs) and built retrieval-augmented generation (RAG) pipelines using frameworks such as LangChain and vector databases like ChromaDB. He has also developed custom AI chatbots capable of answering domain-specific questions by integrating open-source LLMs with semantic search.
+
+One of his key projects includes building a fine-tuned question-answering system using DeepSeek and embedding models like `nomic-embed-text`, allowing offline Q&A functionality on private datasets. Additionally, he has implemented machine learning pipelines for agriculture and land-use optimization during his internship at LIMS (a government-led initiative under the Pakistan Army).
+
+Abdullah's other technical interests include natural language processing (NLP), supervised and unsupervised learning, clustering, and model deployment. He continues to work on improving model efficiency and creating scalable AI solutions suitable for real-world deployment.
