@@ -1,1 +1,8 @@
+Abdullah Irshad is a Data Scientist with a strong academic foundation and hands-on experience in machine learning and natural language processing (NLP). He holds a Bachelor's degree in Data Science and currently works as a Junior Data Scientist at Turing.
+
+Abdullah is proficient in Python, SQL, and ML frameworks like scikit-learn, TensorFlow, and PyTorch. He has applied his skills to real-world projects involving customer segmentation, predictive modeling, and NLP tasks such as sentiment analysis and text classification.
+
+His experience includes building and fine-tuning large language models, constructing end-to-end ML pipelines, and deploying AI systems in production. He has also worked with embedding-based search systems and retrieval-augmented generation (RAG) architectures.
+
+In his current role, he analyzes large-scale datasets, develops machine learning workflows, and contributes to intelligent, data-driven solutions. Abdullah is passionate about building AI systems that operate efficiently in practical, real-world environments.
 
