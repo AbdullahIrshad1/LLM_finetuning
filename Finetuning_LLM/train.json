@@ -1,1 +1,167 @@
-
+[
+  {
+    "instruction": "Who is Abdullah?",
+    "input": "",
+    "output": "Abdullah is a Data Science undergraduate in his 6th semester at FAST NUCES with a strong interest in AI and machine learning."
+  },
+  {
+    "instruction": "Which semester is Abdullah currently in?",
+    "input": "",
+    "output": "He is in his 6th semester."
+  },
+  {
+    "instruction": "Where is Abdullah studying?",
+    "input": "",
+    "output": "He is studying at FAST NUCES."
+  },
+  {
+    "instruction": "What are Abdullah's key technical skills?",
+    "input": "",
+    "output": "Abdullah is skilled in Python, SQL, and tools such as Tableau and Power BI."
+  },
+  {
+    "instruction": "What types of AI projects has Abdullah worked on?",
+    "input": "",
+    "output": "Abdullah has worked on large language models, RAG pipelines, and custom AI chatbots for domain-specific Q&A."
+  },
+  {
+    "instruction": "What frameworks has Abdullah used for RAG pipelines?",
+    "input": "",
+    "output": "He has used LangChain and vector databases like ChromaDB."
+  },
+  {
+    "instruction": "Which embedding model did Abdullah use in his fine-tuned QA system?",
+    "input": "",
+    "output": "He used the nomic-embed-text embedding model."
+  },
+  {
+    "instruction": "Which LLM did Abdullah fine-tune?",
+    "input": "",
+    "output": "Abdullah fine-tuned the DeepSeek model for building an offline question-answering system."
+  },
+  {
+    "instruction": "Where did Abdullah intern?",
+    "input": "",
+    "output": "He interned at LIMS, a government-led initiative under the Pakistan Army."
+  },
+  {
+    "instruction": "What kind of machine learning pipelines did Abdullah work on during his internship?",
+    "input": "",
+    "output": "He developed ML pipelines for agriculture and land-use optimization."
+  },
+  {
+    "instruction": "What are Abdullah's interests in AI?",
+    "input": "",
+    "output": "He is interested in NLP, supervised and unsupervised learning, clustering, and deploying scalable AI systems."
+  },
+  {
+    "instruction": "How does Abdullah aim to use his skills?",
+    "input": "",
+    "output": "He focuses on improving model efficiency and building scalable, real-world AI solutions."
+  },
+  {
+    "instruction": "Which programming languages does Abdullah use?",
+    "input": "",
+    "output": "Abdullah is proficient in Python and SQL."
+  },
+  {
+    "instruction": "Which data visualization tools does Abdullah work with?",
+    "input": "",
+    "output": "He uses Tableau and Power BI for data visualization."
+  },
+  {
+    "instruction": "What does Abdullah use LangChain for?",
+    "input": "",
+    "output": "He uses LangChain for building retrieval-augmented generation (RAG) pipelines."
+  },
+  {
+    "instruction": "Which vector database does Abdullah use?",
+    "input": "",
+    "output": "Abdullah uses ChromaDB as a vector database in his projects."
+  },
+  {
+    "instruction": "What kind of AI chatbots has Abdullah built?",
+    "input": "",
+    "output": "He has built domain-specific chatbots using LLMs and semantic search techniques."
+  },
+  {
+    "instruction": "What was the purpose of Abdullah’s fine-tuned question-answering system?",
+    "input": "",
+    "output": "It allowed offline Q&A functionality on private datasets using DeepSeek and embedding models."
+  },
+  {
+    "instruction": "What is the nomic-embed-text model used for in Abdullah's work?",
+    "input": "",
+    "output": "It is used for generating text embeddings in his question-answering system."
+  },
+  {
+    "instruction": "What real-world application did Abdullah’s internship work focus on?",
+    "input": "",
+    "output": "His internship focused on ML applications for agriculture and land-use optimization."
+  },
+  {
+    "instruction": "What organization leads the LIMS initiative?",
+    "input": "",
+    "output": "The Pakistan Army leads the LIMS initiative where Abdullah interned."
+  },
+  {
+    "instruction": "How does Abdullah integrate LLMs in his projects?",
+    "input": "",
+    "output": "He integrates open-source LLMs into applications such as chatbots and RAG systems."
+  },
+  {
+    "instruction": "How does Abdullah improve model efficiency?",
+    "input": "",
+    "output": "By fine-tuning models and optimizing deployments for specific domains and tasks."
+  },
+  {
+    "instruction": "What kind of search does Abdullah implement in his AI systems?",
+    "input": "",
+    "output": "He implements semantic search for intelligent information retrieval."
+  },
+  {
+    "instruction": "Does Abdullah work on supervised or unsupervised learning?",
+    "input": "",
+    "output": "He works on both supervised and unsupervised learning techniques."
+  },
+  {
+    "instruction": "What types of machine learning does Abdullah apply?",
+    "input": "",
+    "output": "He applies clustering, predictive modeling, and classic supervised/unsupervised techniques."
+  },
+  {
+    "instruction": "What is the aim of Abdullah's AI solutions?",
+    "input": "",
+    "output": "To build scalable, real-world intelligent systems."
+  },
+  {
+    "instruction": "What does Abdullah’s project with ChromaDB involve?",
+    "input": "",
+    "output": "It involves storing vector embeddings for retrieval in question-answering systems."
+  },
+  {
+    "instruction": "What educational background does Abdullah have?",
+    "input": "",
+    "output": "He is pursuing a degree in Data Science at FAST NUCES."
+  },
+  {
+    "instruction": "How far along is Abdullah in his degree?",
+    "input": "",
+    "output": "He is currently in the 6th semester of his Data Science undergraduate program."
+  },
+  {
+    "instruction": "What kind of datasets does Abdullah work with?",
+    "input": "",
+    "output": "He works with private datasets for tasks like Q&A and machine learning pipelines."
+  },
+  {
+    "instruction": "What kind of AI deployment environments has Abdullah worked with?",
+    "input": "",
+    "output": "He deploys AI solutions suitable for real-world scenarios, including resource-constrained setups."
+  },
+  {
+    "instruction": "What role did Abdullah play in building question-answering systems?",
+    "input": "",
+    "output": "He fine-tuned LLMs and integrated embeddings for context-aware question-answering."
+  }
+]
