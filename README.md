@@ -1,5 +1,6 @@
 # LLM_finetuning
-Fine-tunes the phi-1_5 model using LoRA and 4-bit quantization for instruction-based text generation. Includes training pipeline, adapter merging, and interactive chat interface.
+1.Fine-tunes the phi-1_5 model using LoRA and 4-bit quantization for instruction-based text generation. 
+2.Local RAG chatbot using LangChain, Ollama, and Chroma for querying custom documents with embedded context.
 
 This repository demonstrates how to fine-tune Microsoft’s [`phi-1_5`](https://huggingface.co/microsoft/phi-1_5) language model using [LoRA (Low-Rank Adaptation)](https://arxiv.org/abs/2106.09685) with 4-bit quantization for efficient instruction-tuned training.
 
