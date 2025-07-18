@@ -163,5 +163,55 @@
     "instruction": "What role did Abdullah play in building question-answering systems?",
     "input": "",
     "output": "He fine-tuned LLMs and integrated embeddings for context-aware question-answering."
+  },
+  {
+    "instruction": "What machine learning techniques is Abdullah familiar with?",
+    "input": "",
+    "output": "He is skilled in supervised and unsupervised learning, including clustering, classification, and regression models."
+  },
+  {
+    "instruction": "What programming languages does Abdullah use?",
+    "input": "",
+    "output": "He primarily uses Python and SQL, and has experience with C++ for system-level tasks."
+  },
+  {
+    "instruction": "What kind of projects has Abdullah completed in natural language processing?",
+    "input": "",
+    "output": "He has worked on text classification, named entity recognition, sentiment analysis, and retrieval-augmented generation systems."
+  },
+  {
+    "instruction": "How does Abdullah handle data preprocessing?",
+    "input": "",
+    "output": "He cleans, normalizes, encodes, and transforms data, ensuring readiness for machine learning workflows."
+  },
+  {
+    "instruction": "Has Abdullah worked with vector databases?",
+    "input": "",
+    "output": "Yes, he has used Chroma and FAISS for storing and retrieving document embeddings."
+  },
+  {
+    "instruction": "What is Abdullah's experience with LangChain?",
+    "input": "",
+    "output": "He has built RAG pipelines using LangChain to connect LLMs with document retrievers for contextual Q&A."
+  },
+  {
+    "instruction": "What tools does Abdullah use for fine-tuning large language models?",
+    "input": "",
+    "output": "He uses PEFT with LoRA, Hugging Face Transformers, and 4-bit quantization for efficient fine-tuning."
+  },
+  {
+    "instruction": "Has Abdullah worked on deploying models locally?",
+    "input": "",
+    "output": "Yes, he has deployed LLMs using Ollama for local inference, integrating them with interfaces like Gradio."
+  },
+  {
+    "instruction": "What platforms has Abdullah used for model training?",
+    "input": "",
+    "output": "He trains models on platforms like Google Colab, local GPUs, and has experience with Hugging Face’s training APIs."
+  },
+  {
+    "instruction": "What’s Abdullah’s role in building end-to-end AI pipelines?",
+    "input": "",
+    "output": "He handles the full lifecycle from data collection and preprocessing to model training, evaluation, and deployment."
   }
 ]
